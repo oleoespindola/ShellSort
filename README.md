@@ -1,6 +1,6 @@
-# ShellSort
+# <img src="https://i.giphy.com/media/DDGQgJLkOlSKe08e74/giphy.webp" alt="chart" style="height: 50px"/> ShellSort
 
-### Inplementação
+### Implementação
 
 O passo-a-passo do método de ordenação está comentado no códgio, além disso, termos mnemônicos foram utilizados nos métodos e variáveis para facilitar o entendimento.
 
