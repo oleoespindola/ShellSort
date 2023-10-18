@@ -4,11 +4,14 @@
 
 O módulo shellsort contém uma única classe de mesmo nome. A classe possui apenas dois métodos: generate_list e sort.
 
-O método *generate_list* requer apenas um argumento, *list_range*, que irá definir o *tamanho da lista* e, ao mesmo tempo, a *quantidade máxima de elementos aleatórios únicos*.
+O método **generate_list** requer apenas um argumento, **list_range**, que irá definir o **tamanho da lista** e, ao mesmo tempo, a **quantidade máxima de elementos aleatórios únicos**.
 
 Exemplo de código:
+
 `print(ShellSort.sort(ShellSort.generate_list(10)))`
+
 Exemplo de saída:
+
 `([0, 1, 2, 5, 9, 4, 6, 3, 7, 8], [0, 1, 2, 3, 4, 5, 6, 7, 8, 9], '00:00:00:000')`
 
 O passo-a-passo do método de ordenação está comentado no códgio, além disso, termos mnemônicos foram utilizados nos métodos e variáveis para facilitar o entendimento.
