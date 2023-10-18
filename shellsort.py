@@ -53,12 +53,7 @@ class ShellSort:
         #retorna a lista não ordenada, ordenada e o tempo de execução
         return unordered_list, ordered_list, total_time
     
-    def generate_list(random_end: int, list_range: int) -> list:
+    def generate_list(list_range: int) -> list:
         '''Gera uma lista aleatória, em que list_range é o tamanho da lista e random_end é o número aleatório final'''
         
-        try:
-            return random.sample(list(range(list_range)), random_end)
-        except Exception as e:
-            return [0, 0]
-
-print(ShellSort.sort(ShellSort.generate_list(50,10)))
+        return random.sample(list(range(list_range)), list_range)
