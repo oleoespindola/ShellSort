@@ -49,6 +49,6 @@ Essa sequência de intervalos permite que o ShellSort comece com intervalos maio
 
 #### FONTES 
 
-Donald Shell. A High-Speed Sorting Procedure. Communications of the ACM, 2(7):30-32, 1959. 
+Donald Shell. A High-Speed Sorting Procedure. Communications of the ACM, 2(7):30-32, 1959.
 
 Robert Sedgewick. Algorithms in Java, Part 1–4. Addison-Wesley, 2011
